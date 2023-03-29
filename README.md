@@ -1,1 +1,1 @@
-C variables and loops
+read me for array pointers
