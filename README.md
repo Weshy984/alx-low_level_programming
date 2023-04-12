@@ -1,1 +1,1 @@
-read me for array pointers
+argc and argv readme
